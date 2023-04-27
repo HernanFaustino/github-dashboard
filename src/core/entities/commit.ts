@@ -54,5 +54,5 @@ interface Commit {
   parents: {
     url: string;
     sha: string;
-  };
+  }[];
 }
