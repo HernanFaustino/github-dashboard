@@ -9,7 +9,7 @@ export default function Home() {
     <div className="min-h-full">
       <HeanderContainer />
 
-      <Content>Hola</Content>
+      <Content />
     </div>
   );
 }
